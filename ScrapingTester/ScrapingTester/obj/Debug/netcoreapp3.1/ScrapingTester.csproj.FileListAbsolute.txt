@@ -1,0 +1,12 @@
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\bin\Debug\netcoreapp3.1\ScrapingTester.exe
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\bin\Debug\netcoreapp3.1\ScrapingTester.deps.json
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\bin\Debug\netcoreapp3.1\ScrapingTester.runtimeconfig.json
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\bin\Debug\netcoreapp3.1\ScrapingTester.runtimeconfig.dev.json
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\bin\Debug\netcoreapp3.1\ScrapingTester.dll
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\bin\Debug\netcoreapp3.1\ScrapingTester.pdb
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\obj\Debug\netcoreapp3.1\ScrapingTester.csprojAssemblyReference.cache
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\obj\Debug\netcoreapp3.1\ScrapingTester.AssemblyInfoInputs.cache
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\obj\Debug\netcoreapp3.1\ScrapingTester.AssemblyInfo.cs
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\obj\Debug\netcoreapp3.1\ScrapingTester.dll
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\obj\Debug\netcoreapp3.1\ScrapingTester.pdb
+C:\Users\rikde\source\repos\ScrapingTester\ScrapingTester\obj\Debug\netcoreapp3.1\ScrapingTester.genruntimeconfig.cache

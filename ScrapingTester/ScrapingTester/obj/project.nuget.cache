@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6bJ02yyJJKOQ9IkjO/Cf1Oo5Me/cJIWY0R2yGdkg+7h/Rob8x7k75yN7Dv02y8ZJWBbTrdx/OFSE5eJXtq5OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rikde\\source\\repos\\ScrapingTester\\ScrapingTester\\ScrapingTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rikde\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
